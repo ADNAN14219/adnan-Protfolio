@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://i.ibb.co/KDsdMdj/Screenshot-2021-12-01-094932.png",
+        "name": "Dream Holidays",
+        "start": "Oct 2021",
+        "end": "Dec 2021",
+        "details": "A hotel booking website based on the place you want to visit. The system will recommend available hotels near your travel destination for booking..",
+        "technology": "nodejs javaScript mongodb reactjs bootstrap5",
+        "live": "https://relaxed-benz-3d125b.netlify.app/",
+        "github": "https://github.com/ADNAN14219/assignment11-cleint",
+        "server": "https://github.com/ADNAN14219/assignment11-server"
+    },
+    {
+        "image": "https://i.ibb.co/7JGxQKM/Screenshot-2021-12-01-093812.png",
+        "name": "HEALTHCARE WEBSITE",
+        "start": "Jan 2021",
+        "end": "Present",
+        "details": "This is a health care website. And here is some services. Anyone can Login by google account for booking service. You can Delete or add service",
+        "technology": "React Bootstrap Firebase Api mongoDB",
+        "live": "https://clever-wright-f3bca5.netlify.app/",
+        "GitHub-Cleint": "https://github.com/ADNAN14219/assignment10"
+      
+    },
+    {
+        "image": "https://i.ibb.co/4WjLqnT/Screenshot-2021-12-01-095154.png",
+        "name": "Educational Website",
+        "details": "MERN stack website for Software Company who sales different types of IT services.",
+        "technology": "html css JS reactJS ",
+        "live": "https://tender-stonebraker-8e2eb3.netlify.app/",
+        "github": "https://github.com/ADNAN14219/education"
+    }
+]
